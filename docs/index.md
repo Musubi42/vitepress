@@ -25,4 +25,4 @@ features:
 
 content
 
-![](/images/messenger-photo.jpg)
+![](./images/messenger-photo.jpg)
